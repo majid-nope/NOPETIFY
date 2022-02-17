@@ -1,0 +1,29 @@
+.SliderOption{
+    display: flex;
+    color: #b3b3b3;
+    height: 40px;
+    cursor: pointer;
+    padding-left: 25px;
+    padding-top: 5px;
+    font-family: Gotham;
+    
+    
+    
+    
+}
+.SliderOption:hover{
+    color: white;
+}
+.SliderOption__icon{
+    padding-right: 15px;
+    padding-bottom: 2px;
+    width: 20px;
+}
+.Slider__Title{
+    display: flex;
+    color: white;
+    font-size: 15px;
+    font-family: Montserrat;
+    justify-content: center;
+    padding: 10px;
+}

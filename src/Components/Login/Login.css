@@ -1,0 +1,25 @@
+.login{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    height: 100vh;
+    place-items: center;
+    background-color: black;
+    align-items: center;
+}
+.login > img{
+    width: 100%;
+    justify-content: center;
+    max-width: 500px;
+    min-width: 400px;
+}
+.login > a{
+    padding: 20px;
+    font-weight: 800;
+    background-color: green;
+    color: azure;
+    font-family: 'Montserrat';
+    text-decoration: none;
+    border-radius: 50px;
+}
+

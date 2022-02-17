@@ -1,0 +1,14 @@
+.SliderBar{
+    height: 100vh;
+    background-color: black;
+    min-width: 240px;
+    
+
+    
+
+}
+.SlideBar__logo{
+    margin: 25px;
+    height: 40px;
+}
+
